@@ -5,6 +5,7 @@ RENCANA KONTEN
 
 - Video Cinematic reels
   * Cinematic Reels Motor
-    ^Video sunmori gtu
+    ^ Video sunmori gtu
+    ^ Video Reels Motor side per side
 
 - Video Repasta & Clean
